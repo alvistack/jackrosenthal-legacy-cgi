@@ -1,0 +1,4 @@
+python3-legacy-cgi: copyright-without-copyright-notice
+python3-legacy-cgi: initial-upload-closes-no-bugs
+python3-legacy-cgi: no-manual-page
+python3-legacy-cgi: zero-byte-file-in-doc-directory
