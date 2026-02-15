@@ -1,0 +1,5 @@
+python-legacy-cgi source: file-without-copyright-information
+python-legacy-cgi source: no-debian-changes
+python-legacy-cgi source: source-contains-prebuilt-windows-binary
+python-legacy-cgi source: source-is-missing
+python-legacy-cgi source: source-package-encodes-python-version
